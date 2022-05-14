@@ -1,0 +1,97 @@
+div.scrollmenu {
+  background-color: #000;
+  overflow: auto;
+  white-space: nowrap;
+  width: 100%;
+  height: 100%;
+}
+
+div.scrollmenu a {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+  
+}
+
+div.scrollmenu a:hover {
+  background-color: #777;
+}
+
+body { 
+  background-color: black;
+  margin:0;}
+
+  
+
+.icon-bar {
+  width: 100%;
+  height: 75%;
+  background-color: black;
+  overflow: auto;
+}
+
+.icon-bar a {
+  float: left;
+  width: 50%;
+  text-align: center;
+  padding: 12px 0;
+  transition: all 0.3s ease;
+  color: darkred;
+  font-size: 36px;
+  background-color: black;
+}
+
+.icon-bar a:hover {
+  background-color: whitesmoke;
+}
+
+.active {
+  background-color: whitesmoke;
+}
+div {
+  width: 25px;
+  height: 5px;
+  background-color: azure;
+
+  margin: 2px 0;
+
+}
+
+
+h1{
+  font-family: cursive;
+  color: whitesmoke;
+
+
+  font-size: 50px;
+  display: table-row;
+}
+
+
+
+*{
+  box-sizing: border-box;
+  
+}
+h2{
+  font-size:20px ;
+  color: #808080;
+
+ 
+
+
+}
+p{
+  color: #EBF4FA;
+  font-size: 20px;
+}
+h1{
+  border-style: dotted;
+  
+
+}
+
+
+
